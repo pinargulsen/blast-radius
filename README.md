@@ -1,3 +1,4 @@
+
 # Blast Radius
 
 [![CircleCI](https://circleci.com/gh/28mm/blast-radius/tree/master.svg?style=svg)](https://circleci.com/gh/28mm/blast-radius/tree/master)
